@@ -1,16 +1,19 @@
-### Hi there 👋
+# Hi! I'm **Alice Carrizo!**
+# **Front-End/Back-End** programmer
 
-<!--
-**Aleecebeth/Aleecebeth** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm 18 years old, **Front-End** and Still learning **Back-End** web designer, lot of love for this hobby. I've worked with various projects from **secondary school** and some personal ones.
 
-Here are some ideas to get you started:
+My **primary** programing languages are:
+1. HTML 🟠
+2. CSS 🔵
+3. JavaScript 🟡
+4. Php 🟣
+5. MysQL 🐬
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+I'm **actually learning** the next Back-End languages:
+1. Ruby 🔻
+2. Python 🐍
+3. Java ☕️
+
+# **Contact**
+Gmail: aliceelizabethcarrizo@gmail.com
