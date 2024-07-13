@@ -28,3 +28,12 @@ Hi! I'm **Alice Carrizo!** I'm 18 years old, **Front-End** and **Back-End** web 
 <a href="https://www.twitter.com/aleecebeth" target="_blank">
     <code><img aling="left" alt="x" width="26px" src="https://github.com/Aleecebeth/Aleecebeth/assets/144489440/ce2452db-0a7f-4470-ad56-486ac24d5095"></code>
 </a>
+
+### ⚙️ &nbsp;GitHub Analytics
+
+<p align="center">
+<a href="https://github.com/ArisGuimera">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=Aleecebeth&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Aleecebeth&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
