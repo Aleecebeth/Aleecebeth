@@ -1,4 +1,4 @@
-![Banner](https://raw.githubusercontent.com/aleecebeth/aleecebeth/main/banner.jpg)
+![Banner](https://raw.githubusercontent.com/aleecebeth/aleecebeth/main/banner1.gif)
 
 # 📝About Me
 
