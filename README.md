@@ -30,22 +30,6 @@
 
 </td></tr></table>
 
-
-<br />
-<br />
-
-
-# **Contact**
-<a href="mailto:aliceelizabethcarrizo@gmail.com" target="_blank">
-    <code><img aling="left" alt="gmail" width="26px" src="https://img.icons8.com/3d-fluency/100/000000/gmail.png"></code>
-</a>
-<a href="https://www.instagram.com/aleecebeth" target="_blank">
-    <code><img aling="left" alt="ig" width="26px" src="https://github.com/Aleecebeth/Aleecebeth/assets/144489440/7f83696f-c38e-48ca-a1a6-87f9e11630db"></code>
-</a>
-<a href="https://www.twitter.com/aleecebeth" target="_blank">
-    <code><img aling="left" alt="x" width="26px" src="https://github.com/Aleecebeth/Aleecebeth/assets/144489440/ce2452db-0a7f-4470-ad56-486ac24d5095"></code>
-</a>
-
 ### ⚙️ &nbsp;GitHub Analytics
 
 <p align="center">
@@ -54,3 +38,11 @@
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=Aleecebeth&layout=compact&langs_count=8&theme=algolia"/>
 </a>
 </p>
+
+# 📫 Connect With Me
+
+<div align="center"> 
+<a href="https://twitter.com/AleeceDev" target="_blank">
+<img src=https://img.shields.io/badge/twitter-%2324292e.svg?&style=for-the-badge&logo=x&logoColor=white alt=x style="margin-bottom: 5px;" />
+</a>   
+</div>
