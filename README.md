@@ -1,3 +1,5 @@
+![Banner](https://raw.githubusercontent.com/aleecebeth/aleecebeth/main/banner.jpg)
+
 # 📝About Me
 
 <h3 align="center">Hi! I'm Alice Carrizo! I'm 19 years old, Front-end and Back-end web designer, lot of love for this hobby. I've worked with various projects from technical high school and some personal ones.</h3>
