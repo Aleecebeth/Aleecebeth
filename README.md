@@ -1,4 +1,14 @@
+<div align="center">
+
 ![Banner](https://raw.githubusercontent.com/aleecebeth/aleecebeth/main/banner1.gif)
+
+</div>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&pause=1000&color=EE6DFF&center=verdadero&vCenter=verdadero&width=500&lines=On+the+way+to+being+a+web+developer.)](https://git.io/typing-svg)
+
+</div>
 
 # 📝About Me
 
