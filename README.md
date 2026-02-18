@@ -1,6 +1,16 @@
 # 📝About Me
 
-<h3 align="center">I'm Front-end and Back-end web designer. I've worked with various projects from technical high school and some personal ones.</h3>
+<h3 align="center">Fullstack Developer Junior specialized in React Native and modern web technologies.
+
+🎓 Programming Technician graduate  
+💻 Focused on Web & Mobile Development  
+🚀 Passionate about building functional and clean user interfaces  </h3>
+
+<div align="center">
+
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&pause=1000&color=EE6DFF&center=verdadero&vCenter=verdadero&width=500&lines=On+the+way+to+being+a+web+developer.)](https://git.io/typing-svg)
+
+</div>
 
 # <img align="center" src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="35"/> Technologies That I Know
 
@@ -45,16 +55,4 @@
 <a href="https://twitter.com/AleeceDev" target="_blank">
 <img src=https://img.shields.io/badge/twitter-%2324292e.svg?&style=for-the-badge&logo=x&logoColor=white alt=x style="margin-bottom: 5px;" />
 </a>   
-</div>
-
-<div align="center">
-
-![Banner](https://raw.githubusercontent.com/aleecebeth/aleecebeth/main/banner1.gif)
-
-</div>
-
-<div align="center">
-
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Roboto+Mono&pause=1000&color=EE6DFF&center=verdadero&vCenter=verdadero&width=500&lines=On+the+way+to+being+a+web+developer.)](https://git.io/typing-svg)
-
 </div>
