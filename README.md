@@ -9,7 +9,7 @@
 ### <div align="center"> Frontend </div>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=react,js,html,css,bootstrap"/>
+<img src="https://skillicons.dev/icons?i=html,css,react,js,bootstrap"/>
 </p>
 
 </td><td valign="top" width="33%">
@@ -25,7 +25,7 @@
 ### <div align="center"> Tools </div>
 
 <p align="center">
-<img src="https://skillicons.dev/icons?i=github,git,netlify,figma,ps,vscode&theme=light&perline=4" />
+<img src="https://skillicons.dev/icons?i=github,git,netlify,figma,ps,ai,vscode&theme=light&perline=4" />
 </p>
 
 </td></tr></table>
